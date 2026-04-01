@@ -15,4 +15,7 @@
 
 [HW1 Part 2](https://github.com/vkshadoww/114-2-Programing-Language/blob/e8fb69e6621ab1cffe6e37e215b72492bd4c0e58/HW1_%E6%97%A5%E5%B8%B8%E6%94%AF%E5%87%BA%E9%80%9F%E7%AE%97%E8%88%87%E5%88%86%E6%94%A4_Gradio_part2.ipynb)
 
+[HW2 part 1](https://github.com/vkshadoww/114-2-Programing-Language/blob/34ee3bcdff053978ae52522621fbf7d1d2dd661c/Copy_of_HW2_%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A.ipynb)
+
+
 ## 專題連結區
