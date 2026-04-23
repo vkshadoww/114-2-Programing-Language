@@ -18,4 +18,11 @@
 [HW2 part 1](https://github.com/vkshadoww/114-2-Programing-Language/blob/34ee3bcdff053978ae52522621fbf7d1d2dd661c/Copy_of_HW2_%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A.ipynb)
 
 
+[HW2 part 2](https://github.com/vkshadoww/114-2-Programing-Language/blob/c82002f21064048a6d1898fb37c04a39be7b881e/Copy_of_HW2_%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A_Part2.ipynb)
+
+
+###[說明影片](https://youtu.be/nHAlvkLGDew?si=iuDenvWID6H7Js0h)
+  
+###[vibe coding](https://youtu.be/yCAA7TAgKbk?si=xsSud0-C1x2X_P5M)
+
 ## 專題連結區
