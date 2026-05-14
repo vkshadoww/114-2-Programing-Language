@@ -25,4 +25,10 @@
   
 ###[vibe coding](https://youtu.be/yCAA7TAgKbk?si=xsSud0-C1x2X_P5M)
 
+
+[HW3](https://github.com/vkshadoww/114-2-Programing-Language/blob/86c095a3411a6d3531747ed4a37b520954cac68e/Copy_of_HW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84.ipynb)
+
+
+影片[連結](https://youtu.be/yt-6rPMjoX8?si=hQuD7pLTLJqCMeXF)
+
 ## 專題連結區
