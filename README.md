@@ -31,4 +31,11 @@
 
 影片[連結](https://youtu.be/yt-6rPMjoX8?si=hQuD7pLTLJqCMeXF)
 
+
+[HW4](https://github.com/vkshadoww/114-2-Programing-Language/blob/10c49a7c6d9106e6e732ac2e556d7b351e8fa087/Copy_of_HW4_PTT_GoogleSheet_RAG%E6%95%B4%E7%90%86%E7%89%88.ipynb)
+
+影片[連結](https://youtu.be/tgH8G5acZP0)
+
 ## 專題連結區
+
+
